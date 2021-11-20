@@ -1,0 +1,25 @@
+name = "Ella Xu"
+
+[school]
+level = "Senior"
+type = "High School"
+
+[[classes]]
+name = "Civics"
+teacher = "Clark"
+
+[[classes]]
+name = "AP Computer Science"
+teacher = "Sos"
+
+[[classes]]
+name = "World Literature"
+teacher = "Richey"
+
+[[classes]]
+name = "Digital Electronics"
+teacher = "Friesen"
+
+[[classes]]
+name = "AP Statistics"
+teacher = "Shackelford"
