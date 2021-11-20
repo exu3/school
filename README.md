@@ -1,3 +1,3 @@
-# Senior Year of High School
+# ooohwee
 
 🥝 A new [kiwi](https://github.com/gleich/kiwi) project.
